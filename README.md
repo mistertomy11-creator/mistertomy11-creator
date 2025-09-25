@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there , I'm Phostomy St Ilbert - aka Tommy 👋.
+I’m currently an undergraduate student in Software Engineering with a growing passion for building and improving digital solutions.
+I have hands-on experience with HTML, CSS, JavaScript, Git, GitHub, VS Code, and Figma, which allows me to contribute both to the technical and design aspects of projects.
+
+I enjoy tackling challenges, especially debugging and problem-solving, where I can find errors and create efficient solutions.
+Outside of tech, I like to read and play basketball—activities that help me stay creative, focused, and collaborative.
+
+I’m eager to keep learning, contribute to real-world projects, and grow into a well-rounded software engineer
+
 
 <!--
 **mistertomy11-creator/mistertomy11-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
